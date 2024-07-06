@@ -12,8 +12,8 @@ Caesar Cipher is a simple encryption technique used in ancient times by Julius C
 
 2. **Run the Script:**
    - Open a terminal or command prompt.
-   - Navigate to the directory where `caesar_cipher.py` is located.
-   - Run the script by typing `python caesar_cipher.py`.
+   - Navigate to the directory where `PRODIGY_CS_01(Caesar Cipher).py` is located.
+   - Run the script by typing `python PRODIGY_CS_01(Caesar Cipher).py`.
 
 3. **Choose an Option:**
    - When prompted, choose whether you want to encrypt or decrypt a message.
