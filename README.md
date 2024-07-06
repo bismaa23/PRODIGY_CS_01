@@ -23,15 +23,17 @@ Caesar Cipher is a simple encryption technique used in ancient times by Julius C
    - The script will display the encrypted or decrypted message based on your input.
 
 ## Example
-Suppose you want to encrypt the message "HELLO" with a shift of 3:
-- Original Message: HELLO
-- Encrypted Message: KHOOR
+Suppose you want to encrypt the message "Hello" with a shift of 3:
+- Input: "Hello", Shift: 3
+- Encrypted Output: "Khoor"
 
-Decryption works similarly, where you input the encrypted message and use a negative shift value to reverse the process.
+To decrypt "Khoor" back to "Hello":
+- Input: "Khoor", Shift: 3
+- Decrypted Output: "Hello"
 
-## Contributions
-Contributions to improve this script or add new features are welcome! Fork the repository, make your changes, and submit a pull request.
+## Usage Notes
+- Only letters (A-Z and a-z) are encrypted or decrypted. Non-alphabetical characters remain unchanged.
+- Shift values can be positive or negative, allowing for encryption (positive) and decryption (negative).
+- This script runs in Python and can be executed from the command line or integrated into other Python projects.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Feel free to explore, use, and modify this script for your projects! If you have any questions or suggestions, please reach out.
